@@ -13,4 +13,5 @@ Documenting my progress about cybersecurity and ethical hacking.
 - Session 7: Installed security tools (Wireshark, John, Hydra, SQLmap, Aircrack.ng, Metasploit)
 - Session 7: First Metasploit console session, searched Apache exploits
 - Session 7: Set up Git and pushed to Github
-
+- Session 8: Wireshark intro, caputring ICMP, DNS, and HTTP traffic
+- Session 8: ARP protocol, packet anatomy, HTTP vs HTTPS
