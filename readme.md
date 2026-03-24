@@ -10,3 +10,7 @@ Documenting my progress about cybersecurity and ethical hacking.
 - Session 4: Networking commands, ping, traceroue, nslookup
 - Session 5: Nmap, vulnerability research, CVE databases
 - Session 6: Metasploit, security tools installation
+- Session 7: Installed security tools (Wireshark, John, Hydra, SQLmap, Aircrack.ng, Metasploit)
+- Session 7: First Metasploit console session, searched Apache exploits
+- Session 7: Set up Git and pushed to Github
+
