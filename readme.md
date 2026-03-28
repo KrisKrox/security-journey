@@ -1,4 +1,4 @@
-# My Securtiy Journey
+# My Security Journey
 
 ## About
 Documenting my progress about cybersecurity and ethical hacking.
@@ -15,3 +15,4 @@ Documenting my progress about cybersecurity and ethical hacking.
 - Session 7: Set up Git and pushed to Github
 - Session 8: Wireshark intro, caputring ICMP, DNS, and HTTP traffic
 - Session 8: ARP protocol, packet anatomy, HTTP vs HTTPS
+- Session 9: BurpSuite set up and use
