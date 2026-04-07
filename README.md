@@ -19,3 +19,6 @@ Documenting my progress about cybersecurity and ethical hacking.
 - Session 10: OWASP Top 10 overview
 - Session 10: SQL injection concept and first successful attack on DVWA
 - Session 10: Set up DVWA practice environment
+- Session 11: Broken Access Control and IDOR concepts
+- Session 11: Weak Session IDs and Session Hijacking
+- Session 11: Writing professional bug bounty reports
