@@ -22,3 +22,6 @@ Documenting my progress about cybersecurity and ethical hacking.
 - Session 11: Broken Access Control and IDOR concepts
 - Session 11: Weak Session IDs and Session Hijacking
 - Session 11: Writing professional bug bounty reports
+- Session 12: XSS (Cross Site Scripting) concept and stored XSS attack
+- Session 12: CSRF (Cross Site Request Forgery) concept and attack
+- Session 12: Written independent bug bounty reports for both vulnerabilities
