@@ -25,3 +25,7 @@ Documenting my progress about cybersecurity and ethical hacking.
 - Session 12: XSS (Cross Site Scripting) concept and stored XSS attack
 - Session 12: CSRF (Cross Site Request Forgery) concept and attack
 - Session 12: Written independent bug bounty reports for both vulnerabilities
+- Session 13: Connected to TryHackMe via VPN
+- Session 13: Completed first TryHackMe room - Offensive Security Intro
+- Session 13: Directory enumeration with dirb
+- Session 13: Completed first full attack chain
