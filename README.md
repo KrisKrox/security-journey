@@ -29,3 +29,6 @@ Documenting my progress about cybersecurity and ethical hacking.
 - Session 13: Completed first TryHackMe room - Offensive Security Intro
 - Session 13: Directory enumeration with dirb
 - Session 13: Completed first full attack chain
+- Session 14: Completed TryHackMe Pre-Security rooms - Defensive Security, Careers in Cyber, Networking, DNS in Detail, HTTP in Detail, How Websites Work
+- Session 14: DNS Record types and reconnaissance techniques
+- Session 14: HTTP methods and status codes
